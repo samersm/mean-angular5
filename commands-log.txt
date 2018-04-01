@@ -1,3 +1,13 @@
 
 $ ng new mean-angular5
 Commit..
+
+$ npm install --save express body-parser morgan body-parser serve-favicon
+Commit..
+
+$ mkdir bin
+$ touch bin/www
+$ touch app.js
+$ mkdir routes
+$ touch routes/book.js
+Commit..
