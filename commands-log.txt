@@ -14,3 +14,7 @@ Commit..
 
 $ npm install --save mongoose bluebird
 Commit..
+
+$ mkdir models
+$ touch models/Books.js
+Commit..
