@@ -11,3 +11,6 @@ $ touch app.js
 $ mkdir routes
 $ touch routes/book.js
 Commit..
+
+$ npm install --save mongoose bluebird
+Commit..
